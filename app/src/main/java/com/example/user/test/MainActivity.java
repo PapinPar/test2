@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("test", "test2");
         Log.d("test", "new branch");
         Log.d("test", "new branch 2 commit");
+        Log.d("test", "change in master");
     }
 }
