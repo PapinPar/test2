@@ -5,4 +5,5 @@ package com.example.user.test;
  */
 
 public class Second {
+    String string = null;
 }
