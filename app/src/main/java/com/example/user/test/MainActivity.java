@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("test", "new branch 2 commit");
         Log.d("test", "change in master");
         String s = "change from git";
-        String s = "change from git 2";
+        String s2 = "change from git 2";
     }
 }
